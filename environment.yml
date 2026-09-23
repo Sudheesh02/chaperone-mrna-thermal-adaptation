@@ -1,0 +1,14 @@
+name: chaperone-adaptation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - numpy>=1.24
+  - scipy>=1.10
+  - pandas>=2.0
+  - biopython>=1.80
+  - matplotlib>=3.7
+  - pip
+  - pip:
+      - ViennaRNA  # Optional: for re-running raw RNAfold from scratch

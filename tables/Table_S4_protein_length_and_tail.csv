@@ -1,0 +1,51 @@
+species,strain,phylum,thermal_type,topt_c,groel_protein_length_aa,groel_cterm_tail_aa,dnak_protein_length_aa
+Actinopolyspora erythraea,YIM 90600,Actinobacteria,Mesophile,37.0,549,28,621
+Bifidobacterium lemurum,LMC 13,Actinobacteria,Mesophile,39.5,541,17,617
+Corynebacterium humireducens,MFC-5,Actinobacteria,Mesophile,37.0,547,21,616
+Corynebacterium jeddahense,JCB,Actinobacteria,Mesophile,37.0,545,19,612
+Leucobacter celer,NAL101,Actinobacteria,Mesophile,37.0,540,19,615
+Streptomyces alfalfae,XY25,Actinobacteria,Mesophile,37.0,542,19,619
+Acidothermus cellulolyticus,11B,Actinobacteria,Thermophile,55.0,539,18,618
+Rubrobacter naiadicus,RG-3,Actinobacteria,Thermophile,60.0,538,15,636
+Saccharomonospora glauca,K62,Actinobacteria,Thermophile,50.0,542,21,621
+Streptomyces_thermoautotrophicus_Carbonactinospora_thermoautotrophica,UBT1,Actinobacteria,Thermophile,65.0,539,18,615
+Thermasporomyces composti,I3,Actinobacteria,Thermophile,52.5,541,19,622
+Thermomonospora curvata,B9,Actinobacteria,Thermophile,50.0,540,18,617
+Alistipes ihumii,AP11,Bacteroidetes,Mesophile,37.0,544,21,644
+Parapedobacter pyrenivorans,P-4,Bacteroidetes,Mesophile,37.0,545,22,639
+Prevotella disiens,ATCC 29426,Bacteroidetes,Mesophile,37.0,541,18,634
+Sphingobacterium hotanense,XH4,Bacteroidetes,Mesophile,37.0,545,22,639
+Tellurirhabdus_rosea_Larkinella_roseola_strain_U15T,U15,Bacteroidetes,Mesophile,35.0,543,21,650
+Tenacibaculum mesophilum,CIP107215,Bacteroidetes,Mesophile,31.5,545,22,635
+Crenotalea thermophila,STH-1-Y1,Bacteroidetes,Thermophile,55.0,543,20,634
+Raineya orbicola,SPSPC-11,Bacteroidetes,Thermophile,50.0,542,21,628
+Rhodothermus marinus,DSM 4252,Bacteroidetes,Thermophile,65.0,540,17,640
+Rhodothermus profundi,PRI 2902,Bacteroidetes,Thermophile,72.5,540,17,640
+Thermoflavifilum aggregans,P373,Bacteroidetes,Thermophile,60.0,543,20,634
+Thermonema lapsum,DSM 5718,Bacteroidetes,Thermophile,60.0,542,20,629
+Bacillus marisflavi,TF-11,Firmicutes,Mesophile,33.5,544,24,609
+Bacillus_oryzaecorticis_Rossellomorea_sp_KS_H15a,R1,Firmicutes,Mesophile,37.0,544,24,609
+Megasphaera massiliensis,NP3,Firmicutes,Mesophile,37.0,542,22,618
+Nosocomiicoccus massiliensis,NP2,Firmicutes,Mesophile,37.0,540,19,606
+Oceanobacillus jeddahense,S5,Firmicutes,Mesophile,37.0,544,24,613
+Pseudobacteroides cellulosolvens,WM2,Firmicutes,Mesophile,42.0,540,17,620
+Sellimonas intestinalis,BR72,Firmicutes,Mesophile,37.0,539,17,623
+Anoxybacillus flavithermus,DSM 2641,Firmicutes,Thermophile,62.5,538,18,605
+Caldicellulosiruptor kristjanssonii,I77R1B,Firmicutes,Thermophile,78.0,539,16,607
+Caldicellulosiruptor kronotskyensis,2002,Firmicutes,Thermophile,70.0,539,16,607
+Desulfotomaculum kuznetsovii,17,Firmicutes,Thermophile,62.5,539,17,608
+Geobacillus thermocatenulatus,DSM 730,Firmicutes,Thermophile,70.0,539,16,606
+Thermaerobacter marianensis,7p75a,Firmicutes,Thermophile,75.0,539,18,654
+Thermoanaerobacter italicus,Ab9,Firmicutes,Thermophile,72.5,540,17,612
+Desulfovibrio biadhensis,Khaled BD4,Proteobacteria,Mesophile,37.0,548,26,644
+Escherichia coli,K-12 MG1655,Proteobacteria,Mesophile,37.0,548,25,638
+Fodinicurvata halophila,BA45AL,Proteobacteria,Mesophile,37.0,552,28,644
+Myxococcus xanthus,FB,Proteobacteria,Mesophile,29.0,547,25,535
+Sulfurifustis variabilis,skN76,Proteobacteria,Mesophile,43.5,547,21,646
+Wenzhouxiangella marina,Ma-11,Proteobacteria,Mesophile,37.0,548,25,643
+Caminibacter mediatlanticus,TB-2,Proteobacteria,Thermophile,55.0,544,21,624
+Cetia pacifica,TB-6,Proteobacteria,Thermophile,57.5,545,22,626
+Dissulfuribacter thermophilus,S69,Proteobacteria,Thermophile,61.0,543,20,647
+Geothermobacter ehrlichii,SS015,Proteobacteria,Thermophile,55.0,544,22,631
+Hydrogenimonas thermophila,EP1-55-1%,Proteobacteria,Thermophile,55.0,546,24,630
+Nautilia abyssi,PH1209,Proteobacteria,Thermophile,60.0,545,22,624

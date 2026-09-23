@@ -1,0 +1,5 @@
+model,response,predictor,n,lambda,intercept,slope_nt_per_C,p_value,software,notes
+OLS (ordinary least squares),groL CDS length (nt),Topt (°C),50,,,-0.4145,1.72e-05,Python numpy / scipy.stats.t (this package),"Manuscript reports slope −0.415 nt °C−1, P = 1.7 × 10−5."
+PGLS with Pagel's λ (ML),groL CDS length (nt),Topt (°C),50,0.997,1646.6052,-0.356,6e-05,"R ape + nlme::gls, corPagel (manuscript / Figure 2)",Primary values reported in the paper.
+"PGLS with Pagel's λ (ML), Python reimplementation",groL CDS length (nt),Topt (°C),50,0.9999,,-0.352,1.6e-05,code/pgls_grol.py (this package),"Same qualitative result (λ ≈ 1, significant negative slope). Small numerical differences vs nlme are expected."
+OLS,dnaK CDS length (nt),Topt (°C),50,,,,,Python / R,"Not significant. Spearman ρ = −0.057, P = 0.70."
