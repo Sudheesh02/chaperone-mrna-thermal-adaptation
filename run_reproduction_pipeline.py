@@ -58,9 +58,9 @@ def main():
     # 4. Dinucleotide shuffle algorithm self-test
     run_step(4, "Altschul-Erickson dinucleotide shuffle verification", SCRIPTS_DIR / "04_dinuc_shuffle.py")
 
-    # 5. Publication figures generation
-    print("\n[5/5] GENERATING PUBLICATION FIGURES...")
-    for fig_script in ["plot_figure1.py", "plot_figure2.py", "plot_figure3.py"]:
+    # 5. Publication figures & graphical abstract generation
+    print("\n[5/5] GENERATING PUBLICATION FIGURES & GRAPHICAL ABSTRACT...")
+    for fig_script in ["plot_figure1.py", "plot_figure2.py", "plot_figure3.py", "plot_graphical_abstract.py"]:
         start = time.time()
         res = subprocess.run([sys.executable, str(SCRIPTS_DIR / fig_script)], capture_output=True, text=True, cwd=str(BASE_DIR))
         elapsed = time.time() - start
