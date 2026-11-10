@@ -123,8 +123,7 @@ def main():
     print(" [PASS] Publication figures: Figures 1, 2, and 3 successfully verified in figures/ directory.")
 
     print("\n" + "=" * 82)
-    print(" ALL AUDIT CHECKS PASSED: 100% REPRODUCIBILITY CONFIRMED.")
-    print(" The repository is fully self-contained and ready for publication.")
+    print(" Pipeline complete: all manuscript assertions successfully validated.")
     print("=" * 82 + "\n")
 
 if __name__ == "__main__":
